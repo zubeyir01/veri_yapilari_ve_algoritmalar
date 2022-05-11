@@ -21,3 +21,4 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 -   Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 -   Big-O gösterimini yazınız.
+

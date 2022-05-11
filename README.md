@@ -22,3 +22,8 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 -   Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 -   Big-O gösterimini yazınız.
 
+## Binary Search Tree
+### Proje 3
+**[7,5,1,8,3,6,0,9,4,2]** Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.s
